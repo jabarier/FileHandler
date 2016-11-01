@@ -58,6 +58,7 @@
 		330203831DC82D8E009F8034 /* TestFileHandler */ = {
 			isa = PBXGroup;
 			children = (
+				3302039B1DC82D9B009F8034 /* Plugins */,
 				330203871DC82D8E009F8034 /* AppDelegate.h */,
 				330203881DC82D8E009F8034 /* AppDelegate.m */,
 				3302038A1DC82D8E009F8034 /* ViewController.h */,
@@ -77,6 +78,13 @@
 				330203851DC82D8E009F8034 /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		3302039B1DC82D9B009F8034 /* Plugins */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Plugins;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
