@@ -1,0 +1,3 @@
+[submodule "TestFileHandler/Plugins/FileHandler"]
+	path = TestFileHandler/Plugins/FileHandler
+	url = http://gitlab.scics.com/iOS-Plugins/FileHandler.git
